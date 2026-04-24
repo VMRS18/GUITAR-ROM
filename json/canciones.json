@@ -1,0 +1,218 @@
+[
+    {
+        "titulo":"Yo no merezco volver",
+        "autor":"Morat",
+        "acordes":"C - G - Am - F - Fmaj7 - G6 - E/G#",
+        "letra":"../letras_canciones/yo_no_merezco_volver.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=OlXpAWn7t0o&list=RDOlXpAWn7t0o&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/yo_no_merezco_volver.jpg"
+    },
+    {
+        "titulo":"Ya no estas tu",
+        "autor":"Morat",
+        "acordes":"G - D - Em - C - B7",
+        "letra":"../letras_canciones/ya_no_estas_tu_morat.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=ATe8yC6-R0Q&list=RDATe8yC6-R0Q&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/ya_no_estas_tu_morat.jpg"
+    },
+    {
+        "titulo":"Nostalgia",
+        "autor":"Antologia",
+        "acordes":"F#m - Bm - D - A - F#7",
+        "letra":"../letras_canciones/nostalgia.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=d8gmIiEHNT0&list=RDd8gmIiEHNT0&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/nostalgia.jpg"
+    },
+    {
+        "titulo":"Te vi venir",
+        "autor":"Sin bandera",
+        "acordes":"Asus2 - G#m7 - F#m7 - Gm7 - E - Bsus2 - G#7",
+        "letra":"../letras_canciones/te_vi_venir.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=rNJn8dWjsCA&list=RDrNJn8dWjsCA&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/te_vi_venir.jpg"
+    },
+    {
+        "titulo":"La Flaca",
+        "autor":"Jarabe de Palo",
+        "acordes":"Am(cejilla) - E7(5tacuerda) - E#7(6tacuerda) - D#7(4tacuerda) - D7(3racuerda) - C(cejilla) - F - G(cejilla) - D(cejilla)",
+        "letra":"../letras_canciones/la_flaca.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=r2g0pM3PMNQ&list=RDr2g0pM3PMNQ&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/la_flaca.jpg"
+    },
+    {
+        "titulo":"Yo no naci para amar",
+        "autor":"Juan Gabriel",
+        "acordes":"Em - Am - D7 - G - B7 - C",
+        "letra":"../letras_canciones/yo_no_naci_para_amar.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=ApXZ4IVkQY0&list=RDApXZ4IVkQY0&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/yo_no_naci_para_amar.jpg"
+    },
+    {
+        "titulo":"Flaca",
+        "autor":"Andres Calamaro",
+        "acordes":"G - B7 - Em - C - D",
+        "letra":"../letras_canciones/flaca.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=UCF9oHXhDMU&list=RDUCF9oHXhDMU&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/flaca.jpg"
+    },
+    {
+        "titulo":"Dimelo",
+        "autor":"Adrian Campos",
+        "acordes":"Am - G - F - C",
+        "letra":"../letras_canciones/dimelo.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=zUAcKxQV1uE&list=RDw3WQwdKVqqc&index=2",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/dimelo.jpg"
+    },
+    {
+        "titulo":"La mejor de todas",
+        "autor":"El Recodo",
+        "acordes":"C9 - Em7 - F - Dm - G",
+        "letra":"../letras_canciones/la_mejor_de_todas_el_recodo.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=mXDX6sp1vsw&list=RDmXDX6sp1vsw&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/la_mejor_de_todas_el_recodo.jpg"
+    },
+    {
+        "titulo":"Mi suerte",
+        "autor":"Morat",
+        "acordes":"C#m7 - F#7 - A - E - Emaj7 - C#m - F#7(simple3er)",
+        "letra":"../letras_canciones/mi_suerte_morat.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=sfv0xWONROg&list=RDsfv0xWONROg&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/mi_suerte_morat.jpg"
+    },
+    {
+        "titulo":"Te hubieras ido antes",
+        "autor":"Reik",
+        "acordes":"C - G - F - Dm - E7",
+        "letra":"../letras_canciones/te_hubieras_ido_antes_reik.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=stNIkeB_fX8&list=RDstNIkeB_fX8&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/te_hubieras_ido_antes_reik.jpg"
+    },
+    {
+        "titulo":"Vamonos a Marte",
+        "autor":"Kevin Kaarl",
+        "acordes":"F - G(cejilla) - C - E7",
+        "letra":"../letras_canciones/vamonos_a_marte_kevin.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=er2upfZf_cg",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/vamonos_a_marte_kevin.jpg"
+    },
+    {
+        "titulo":"Colapso",
+        "autor":"Kevin Kaarl",
+        "acordes":"Am - C - G",
+        "letra":"../letras_canciones/colapso_kevin.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=YUm-LpX1vvY&list=RDYUm-LpX1vvY&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/colapso_kevin.jpg"
+    },
+    {
+        "titulo":"Un millon de primaveras",
+        "autor":"Vicente Fernandez",
+        "acordes":"D - Bm - G - A - E",
+        "letra":"../letras_canciones/un_millon_de_primaveras_vicente.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=M3CbRJ6jgQc&list=RDM3CbRJ6jgQc&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/un_millon_de_primaveras_vicente.jpg"
+    },
+    {
+        "titulo":"Estos celos",
+        "autor":"Vicente Fernandez",
+        "acordes":"E - B7 - A - C#m",
+        "letra":"../letras_canciones/estos_celos_vicente.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=x07SLQtlypo&list=RDx07SLQtlypo&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/estos_celos_vicente.jpg"
+    },
+    {
+        "titulo":"A veces",
+        "autor":"Timo",
+        "acordes":"Dsus2 - A#dim7 - Bm7(1ertraste) - Gsus2(2dotraste) - Em7 - A - D/F# - Gm6 - Em9 - G/A",
+        "letra":"../letras_canciones/a_veces_timo.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=Q17_fueCcWY&list=RDQ17_fueCcWY&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/a_veces_timo.jpg"
+    },
+    {
+        "titulo":"Aprender a vivir",
+        "autor":"Timo",
+        "acordes":"G# - C7 - C#M7(1ertraste) - C#m - Cm7 - Fm - F - F7 - A#m7(1ertraste) - D#(3ertraste)",
+        "letra":"../letras_canciones/aprender_a_vivir_timo.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=kwdk0tpooFc&list=RDkwdk0tpooFc&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/aprender_a_vivir_timo.jpg"
+    },
+    {
+        "titulo":"Tu si eres real",
+        "autor":"Kevin Kaarl",
+        "acordes":"Em - Am - G",
+        "letra":"../letras_canciones/tu_si_eres_real_kevin.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=2rN_lPC_K9c&list=RD2rN_lPC_K9c&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/tu_si_eres_real_kevin.jpg"
+    },
+    {
+        "titulo":"Hotel california",
+        "autor":"Joji",
+        "acordes":"Amaj7 - Emaj7(1ertraste)",
+        "letra":"../letras_canciones/hotel_california_joji.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=uFaShu5UZcs&list=RDuFaShu5UZcs&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/hotel_california_joji.jpg"
+    },
+    {
+        "titulo":"Directo al corazon",
+        "autor":"Orquesta La Verdad del Norte",
+        "acordes":"Am - Dm - G - C - F - E",
+        "letra":"../letras_canciones/directo_al_corazon_orquesta_la_verdad_del_norte.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=J9JcIUe7iHQ&list=RDJ9JcIUe7iHQ&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/directo_al_corazon_orquesta_la_verdad_del_norte.jpg"
+    },
+    {
+        "titulo":"En el proximo big bang",
+        "autor":"Wuicho Kun & Orion",
+        "acordes":"Am - F - C - Dm",
+        "letra":"../letras_canciones/en_el_proximo_big_bang_wuicho.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=PBDZddPhbBg&list=RDPBDZddPhbBg&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/en_el_proximo_big_bang_wuicho.jpg"
+    },
+    {
+        "titulo":"Tu falta de querer",
+        "autor":"Mon Laferte",
+        "acordes":"A - F# - D - Dm - Bm - E - C#7",
+        "letra":"../letras_canciones/tu_falta_de_querer_mon_laferte.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=WT-VE9OyAJk&list=RDWT-VE9OyAJk&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/tu_falta_de_querer_mon_laferte.jpg"
+    },
+    {
+        "titulo":"No se va",
+        "autor":"Morat",
+        "acordes":"F - Am - C - G",
+        "letra":"../letras_canciones/no_se_va_morat.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=USDX0X-d588&list=RDUSDX0X-d588&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/no_se_va_morat.jpg"
+    },
+    {
+        "titulo":"Juguete roto",
+        "autor":"Adrian Campos",
+        "acordes":"A - B - C#m",
+        "letra":"../letras_canciones/juguete_roto_adrian_campos.txt",
+        "video_youtube":"https://www.youtube.com/watch?v=AN_88J01PyQ&list=RDAN_88J01PyQ&start_radio=1",
+        "video_tutorial":"",
+        "foto_cancion":"../img/foto_canciones/juguete_roto_adrian_campos.jpg"
+    }
+]

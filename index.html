@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Rom</title>
+    <link rel="stylesheet" href="/css/todo.css">
+    <link rel="icon" href="/img/logo/logo Guitar Rom.png" type="image/png">
+</head>
+<body>
+    <header class="header">
+        <img src="/img/logo/logo Guitar Rom.png">
+        <h2>La mejor página para guitarristas</h2>
+    </header>
+    <div class="container">
+        <div class="biblioteca_container">
+            <button onclick="biblioteca()" class="button_biblioteca"><img src="/img/icons/icon_biblioteca.png">Ir a biblioteca de acordes</button>
+        </div>
+        <script>
+            function biblioteca(){
+                window.location="/view/biblioteca.html";
+            }
+        </script>
+    
+        <div class="central_container">
+            <form>
+                <input id="input" type="text" placeholder="Ingrese el nombre de una cancion o artista">
+                <button type="submit">Buscar</button>
+            </form>
+            <div class="contenido_container">
+                <h2 id="titulo-cancion">Busca una canción o un artista</h2>
+                <p id="acordes-cancion" class="acordes-cancion"></p>
+                <p id="acordes-imgs" class="acordes-cancion imgs_acordes"></p>
+                <p id="letra-cancion" class="letra-cancion"></p>
+            </div>
+            <table class="tabla-resultados" id="tabla-resultados">
+                <tbody class="tbody" id="tbody"></tbody>
+            </table>
+        </div>
+        <script src="/script/busqueda.js"></script>
+    
+        <div class="info_container">
+            <div class="donar">
+                <button onclick="donar()"><img src="/img/icons/icon_donar.png">Apoyame en Paypal</button>
+            </div>
+            <script>
+                function donar(){
+                    window.open("https://www.paypal.com/donate/?hosted_button_id=JDK9EW678G25L","_blank");
+                }
+            </script>
+    
+            <div class="videos">
+                <div class="info_video">
+                    <img src="/img/icons/icon_videos.png">
+                    <h3>Videos</h3>
+                </div>
+                <div class="video_youtube">
+                    <a id="a_video"></a>
+                    <img id="video_y" class="video_y">
+                </div>
+                <div class="video_tuto">
+                    <h3>Video tutorial</h3>
+                    <iframe id="video_t" class="video_t"></iframe>
+                </div>
+            </div>
+    
+            <div class="sugerencias">
+                <div class="info_suge">
+                    <img src="/img/icons/icon_sugerencias.png">
+                    <h3>Enviame una sugerencia</h3>
+                </div>
+                <button onclick="sugerencia()">Haz click aquí</button>
+                <script>
+                    function sugerencia(){
+                        window.open("https://wa.me/51991976276?text=Hola%2C%20vengo%20de%20tu%20web%20Guitar%20Rom%2C%20tengo%20una%20sugerencia%20para%20ti.%20Puedes%20agregar%20la%20cancion%20_______%2C%20muchas%20gracias","_blank");
+                    }
+                </script>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

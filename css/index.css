@@ -1,0 +1,571 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--color_fondo);
+    padding-bottom: 50px;
+}
+
+
+.header{
+    background-color: var(--color_header);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 180px;
+    gap:15px;
+    border-bottom: 2px solid var(--azul-brillante);
+    box-shadow: 0 3px 20px var(--azul-medio);
+}
+
+.header img{
+    border-radius: 20%;
+    width: 90px;
+    height: auto;
+    box-shadow: 0 0 15px var(--texto-secundario);
+}
+
+.header h2{
+    font-size: 20px;
+    color: var(--texto-principal);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header img:hover{
+    box-shadow: 0 0 20px var(--texto-secundario);
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.biblioteca_container{
+    width: 20%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    background-color: var(--card);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-right: 50px;
+    align-items: center;
+}
+
+.biblioteca_container button img{
+    width: 20px;
+    height: auto;
+}
+
+.biblioteca_container button{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background: linear-gradient(to right,var(--azul-brillante) 80%, var(--azul-brillante2));
+    color: white;
+    border: none;
+}
+.biblioteca_container button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 8px var(--azul-brillante2);
+    transition: 0.2s;
+    transform: scale(1.04);
+}
+
+
+
+
+
+
+
+.central_container{
+    width: 46%;
+    display: flex;
+    background-color: var(--card);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    margin-top: 50px;
+    border-radius: 20px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.central_container form input{
+    outline: none;
+    margin-top: 20px;
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: var(--color_fondo);
+    border: 2px solid var(--azul-brillante);
+    color: white;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+.central_container form input:focus{
+    border: 2px solid #5a5af8;
+    box-shadow: 0px 0px 15px #4d4d90;
+    transition: 0.3s;
+}
+.central_container form input:focus::placeholder{
+    color: transparent;
+    transition: 0.2s;
+}
+.contenido_container{
+    overflow: hidden;
+    padding: 20px;
+    height: 300px;
+    width: 90%;
+    background-color: #0e0e15;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.contenido_container p{
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    white-space: pre;
+    font-family: "Courier New", monospace;
+    font-size: 15px;
+}
+.contenido_container h2{
+    color: var(--texto-principal);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0 0 10px var(--azul-brillante);
+    margin-bottom: 20px;
+}
+
+#acordes-imgs{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+}
+
+.imgs_acordes img{
+    display: flex;
+    width: 100%;
+}
+
+#acordes-cancion{
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+.acordes-cancion{
+    background-color: #05050b;
+    width: 100%;
+    min-height: 30px;
+    border-radius: 10px;
+    border-left: 3px solid var(--azul-brillante2);
+    margin-bottom: 20px;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+}
+.letra-cancion{
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    white-space: pre-wrap;
+    background-color: #05050b;
+    width: 100%;
+    min-height: 50px;
+    border-radius: 10px;
+    border-left: 3px solid var(--azul-brillante2);
+    color: white;
+    padding: 8px;
+}
+
+
+.central_container form button{
+    margin-left: 15px;
+    width: 100px;
+    height: 45px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background: linear-gradient(to right,var(--azul-brillante) 80%, var(--azul-brillante2));
+    color: white;
+    border: none;
+}
+.central_container form button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 8px var(--azul-brillante2);
+    transition: 0.2s;
+    transform: scale(1.04);
+}
+
+
+.tbody tr td{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    background-color: #0e0e15;
+    width: 600px;
+    height: 90px;
+    color: white;
+    border-radius: 10px;
+}
+
+.tbody tr td:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: 0.2s;
+    border: 1px solid #5a5af8;
+    box-shadow: 0px 0px 8px #4d4d90;
+}
+
+.tbody tr td img{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100px;
+    height: 80px;
+}
+
+
+
+
+
+
+
+.info_container{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 18%;
+}
+
+.donar button img{
+    width: 20px;
+    height: auto;
+}
+.donar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    background-color: var(--card);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    margin-top: 50px;
+    border-radius: 20px;
+    justify-content: center;
+}
+.donar button{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background: linear-gradient(to right,var(--azul-brillante) 80%, var(--azul-brillante2));
+    color: white;
+    border: none;
+}
+.donar button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 8px var(--azul-brillante2);
+    transition: 0.2s;
+    transform: scale(1.04);
+}
+
+
+
+.videos{
+    flex-direction: column;
+    height: auto;
+    background-color: var(--card);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    gap: 30px;
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info_video{
+    display: flex;
+    gap: 8px;
+}
+.videos img{
+    width: 20px;
+    height: 20px;
+}
+.video_youtube{
+    width: 100%;
+    height: 180px;
+    background-color: var(--color_fondo);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.video_youtube img{
+    width: 100%;
+    height: 80%;
+}
+.video_youtube a{
+    text-decoration: none;
+    color: var(--texto-principal);
+}
+.video_youtube a:hover{
+    text-shadow: 0 0 10px var(--azul-brillante);
+    transition: 0.2s;
+}
+.video_tuto{
+    width: 100%;
+    height: 180px;
+    background-color: var(--color_fondo);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.video_tuto iframe{
+    width: 100%;
+    height: 80%;
+}
+.video_y{
+    width: 210px;
+    height: auto;
+}
+.video_t{
+    width: 210px;
+    height: auto;
+}
+
+
+
+
+
+
+.sugerencias img{
+    width: 20px;
+    height: 20px;
+}
+.sugerencias{
+    flex-direction: column;
+    height: 80px;
+    background-color: var(--card);
+    border: 2px solid var(--azul-brillante);
+    box-shadow: 1px 1px 8px var(--azul-medio);
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    gap: 8px;
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info_suge{
+    display: flex;
+    gap: 8px;
+}
+.sugerencias button{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background: linear-gradient(to right,var(--azul-brillante) 80%, var(--azul-brillante2));
+    color: white;
+    border: none;
+}
+.sugerencias button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 8px var(--azul-brillante2);
+    transition: 0.2s;
+    transform: scale(1.04);
+}
+
+
+
+
+
+
+@media (max-width: 1024px) {
+
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .biblioteca_container,
+    .central_container,
+    .info_container {
+        width: 90%;
+        margin: 20px 0;
+    }
+
+    .info_container {
+        margin-left: 0;
+        align-items: center;
+    }
+
+    .tbody tr td {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .header {
+        height: auto;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .header img {
+        width: 70px;
+    }
+
+    .header h2 {
+        font-size: 16px;
+    }
+
+    .central_container form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .central_container form input {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+    .central_container form button {
+        width: 90%;
+        margin-left: 0;
+    }
+
+    .contenido_container {
+        width: 95%;
+        height: auto;
+    }
+
+    .contenido_container p {
+        font-size: 12px;
+    }
+
+    .imgs_acordes {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .imgs_acordes img {
+        width: 60px;
+    }
+
+    .tbody tr td {
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .tbody tr td img {
+        width: 80px;
+        height: auto;
+    }
+
+    .video_youtube,
+    .video_tuto {
+        height: auto;
+    }
+
+    .video_y {
+        width: 100%;
+        height: auto;
+    }
+
+    .video_t {
+        width: 100%;
+        height: 200px;
+    }
+
+    .biblioteca_container button,
+    .donar button,
+    .sugerencias button {
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .header h2 {
+        font-size: 14px;
+    }
+
+    .contenido_container h2 {
+        font-size: 16px;
+    }
+
+    .acordes-cancion {
+        font-size: 11px;
+    }
+
+    .letra-cancion {
+        font-size: 12px;
+    }
+
+    .imgs_acordes img {
+        width: 50px;
+    }
+}
