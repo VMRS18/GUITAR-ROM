@@ -35,7 +35,7 @@ E ---------------------------------------------
 ESTROFA
       E 
 Te miré
-
+                  
 Estabas tan bonita
           E
 Tan sensual
@@ -45,31 +45,31 @@ Te imaginé ajena y me hizo mal
 Ay, ay, amor
 B7             A 
 Ay, ay, qué dolor
-      E
+      E            
 Qué tarde comprendí
     B7                      E
 Contigo tenía todo y lo perdí
       E
 Te miré
-
+                       
 Con tu melena al viento
         E
 Y tu mirar
                             B7
 Y al ras de tu escote tu lunar
-         A 
+         A  
 Ay, ay, amor
 B7             A 
 Ay, ay, qué dolor
-      E
+      E            
 Hoy muero de pensar
-    B7                               E
+    B7                               E 
 Que no voy a hacer yo al que vas a amar
 
 
 
 CORO
-      C#m
+      C#m                               
 Estos celos me hacen daño, me enloquecen
    A            B7           E 
 Jamás aprenderé a vivir sin ti
@@ -119,7 +119,7 @@ E ---------------------------------------------
 ESTROFA
       E 
 Te miré
-
+                      
 Me confundió el llanto
        E
 Que rodó
@@ -127,17 +127,17 @@ Que rodó
 Surgió una esperanza, pero no
                 A 
 No, ya no hay amor
-B7             A 
+B7             A  
 No, y fue mi error
-       E
+       E             
 Y hoy muero de pensar
-    B7                               E
+    B7                               E 
 Que no voy a hacer yo al que vas a amar
 
 
 
 CORO
-      C#m
+      C#m                                
 Estos celos me hacen daño, me enloquecen
    A            B7           E 
 Jamás aprenderé a vivir sin ti
@@ -145,9 +145,9 @@ Jamás aprenderé a vivir sin ti
 Lo peor es que muy tarde comprendí, sí, sí
     A          B7           E
 Contigo tenía todo y lo perdí
-    A          B7 
+    A          B7  
 Contigo tenía todo
-         
+          
 Y lo perdí
 
 

@@ -17,21 +17,21 @@ E -------------------------------------------
 
 
 ESTROFA
-G#                                        C7
+G#                                        C7  
 Estoy sufriendo un grave caso de alucinaciones
-C#M7                                              C#m
+C#M7                                              C#m 
 Porque escucho nuestra historia en todas las canciones
 G#                                     C7
 Ya fumigué toda la casa pa' sacar tu olor
                                 C#M7
 Y ya no como fresas tienen tu sabor
-                     C#m
+                     C#m   
 Me voy quedando sin opciones
 
 
 
 PRE-CORO
-       Cm7                   Fm        
+       Cm7                   Fm       
 Porque no me puedo imaginar conociendo
    F7      A#m7                         C#m
 a otra persona si el corazón no me funciona
@@ -39,15 +39,15 @@ a otra persona si el corazón no me funciona
 
 
 CORO
-                     G#
+                     G#  
 ¿Y ahora cómo voy a amar?
-              C7
+              C7 
 ¿Qué voy a decir?
            Fm             F 
 A la que esté después de ti
-   C#M7        G#             A#m7         D#
+   C#M7        G#             A#m7         D# 
 Si tú ya te quedaste con la mejor parte de mí
-                     G#
+                     G# 
 ¿Cómo le voy a explicar?
               C7
 Que sigues aquí
@@ -71,17 +71,17 @@ A vivir
 
 
 ESTROFA
-G#                           C7
+G#                           C7                      
 No quiero otra primera cita con cualquier niña bonita
 C#M7                                    C#m
 Que me hable de su perro, fingir interés
                                      G#
 Pensar que no me mira como tú me ves
-                     C7
+                     C7                  
 Yo que me prometía nunca dejar mi orgullo
 C#M7                 C#m
 Aunque ya no eres mía
-
+                     
 Yo aún me siento tuyo
 
 
@@ -131,7 +131,7 @@ Con tu recuerdo que aquí sigue conmigo
 Yo ya no vivo pero sobrevivo
           C#M7                     C#m
 Con tu recuerdo que aquí sigue conmigo
-         G# 
+         G#                  
 Yo ya no vivo pero sobrevivo
-
+                                      
 Con tu recuerdo que aquí sigue conmigo

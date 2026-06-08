@@ -1,37 +1,37 @@
 ESTROFA
-F
+F                          
 Tan fácil que es enamorarme
-Am 
+Am                      
 Y tan difícil olvidarte
-C
+C                        
 Porque la vida me juraste
-G
+G                            
 Y hoy te busco y tú no estás
-F
+F                            
 Y aunque me duela ver tu foto
-Am 
+Am                          
 Yo entreno a mi corazón roto
 C                                  G
 Por si mañana te vuelvo a encontrar
 
 
 
-PRE-CORO
-            F 
+PRE-CORO 
+            F     
 Ya no sé disimular
-                Am 
+                Am        
 Llamo y no te puedo hablar
-             C 
+             C      
 Tu recuerdo no se va
-           G
+           G      
 No se va, no se va
-              F
+              F         
 Algo en ti quiere volver
-                Am 
+                Am            
 Y algo en mí te va a encontrar
-             C 
-Tu recuerdo no se va
-           G
+             C      
+Tu recuerdo no se va 
+           G      
 No se va, no se va
 
 
@@ -39,59 +39,59 @@ No se va, no se va
 CORO 
               F 
 Quédate otra vez
-                 Am 
+                 Am  
 Quédate toda la noche
               C 
 Quédate otra vez
-                    G 
+                    G  
 Quédate más de las doce
               F 
 Quédate otra vez
-                     
+                        
 Que mi corazón no olvida
-Am                     
+Am                      
 Un amor así no se olvida
-   C                   G
+   C                   G       
 Y no se va, no se va, no se va
-              F 
+              F  
 Quédate otra vez
-                 Am 
+                 Am  
 Quédate toda la vida
               C 
 Quédate otra vez
-                    G 
+                    G  
 Tú eres mi bala perdida
-              F 
+              F  
 Quédate otra vez
-                     
+                        
 Que mi corazón no olvida
-Am                     
+Am                      
 Un amor así no se olvida
-   C                   G
+   C                   G      
 Y no se va, no se va, no se va
-               F 
+               F       
 Quédate una y otra vez
-           Am 
+           Am     
 Otra vez, otra vez
-               C 
+               C       
 Quédate una y otra vez
-         G
+         G    
 Otra vez, ooh
 
 
 
 ESTROFA
-F 
+F                             
 Perder mis ojos cuando bailes
-Am 
+Am                         
 Sentir mil besos en el aire
-C 
+C                               
 Fue suficiente para convencerme
-G
+G               
 De que si te vas
-F 
+F                           
 Te buscaré aunque suene loco
-Am 
+Am                          
 De Bogotá hasta Buenos Aires
 C                                 G
 Cómo te explico que no sé olvidar
@@ -100,21 +100,21 @@ Cómo te explico que no sé olvidar
 
 PRE-CORO
 PRE-CORO
-            F 
+            F     
 Ya no sé disimular
-                Am 
+                Am        
 Llamo y no te puedo hablar
-             C 
+             C       
 Tu recuerdo no se va
-           G
+           G      
 No se va, no se va
-              F
+              F         
 Algo en ti quiere volver
-                Am 
+                Am            
 Y algo en mí te va a encontrar
-             C 
+             C      
 Tu recuerdo no se va
-           G
+           G      
 No se va, no se va
 
 
@@ -122,43 +122,43 @@ No se va, no se va
 CORO 
               F 
 Quédate otra vez
-                 Am 
+                 Am  
 Quédate toda la noche
               C 
 Quédate otra vez
-                    G 
+                    G  
 Quédate más de las doce
               F 
 Quédate otra vez
-                     
+                        
 Que mi corazón no olvida
-Am                     
+Am                       
 Un amor así no se olvida
-   C                   G
+   C                   G       
 Y no se va, no se va, no se va
-              F 
+              F  
 Quédate otra vez
                  Am 
 Quédate toda la vida
               C 
 Quédate otra vez
-                    G 
+                    G  
 Tú eres mi bala perdida
               F 
 Quédate otra vez
-                     
+                        
 Que mi corazón no olvida
-Am                     
+Am                      
 Un amor así no se olvida
-   C                   G
+   C                   G      
 Y no se va, no se va, no se va
-               F 
+               F      
 Quédate una y otra vez
-           Am 
+           Am     
 Otra vez, otra vez
-               C 
+               C      
 Quédate una y otra vez
-         G
+         G   
 Otra vez, ooh
 
 

@@ -32,8 +32,7 @@ function mostrarResultados(resultado){
     let contenedor=document.querySelector(".contenido_container");
     let tablaContainer=document.querySelector(".tabla-resultados");
     
-    contenedor.style.height="0";
-    contenedor.style.padding="0";
+    contenedor.style.display="none";
     
     tablaContainer.style.height="auto";
     
@@ -68,7 +67,7 @@ function mostrarCancion(cancion){
     tabla.style.height="0";
 
     let contenedor=document.querySelector(".contenido_container");
-    contenedor.style.height="auto";
+    contenedor.style.display="flex";
     contenedor.style.padding="20px";
     document.getElementById("titulo-cancion").textContent = cancion.titulo;
     document.getElementById("acordes-cancion").textContent = cancion.acordes;
@@ -111,6 +110,7 @@ function mostrarCancion(cancion){
     let video_tuto=document.querySelector(".video_tuto");
     video_tuto.innerHTML=`
         <h3>Video tutorial</h3>
-        <iframe id="video_t" class="video_t" src="${cancion.video_tuto}"></iframe>
+        <a id="a_tuto" href="${cancion.video_tutorial}" target="_blank">Click aquí para ver el tutorial</a>
+        <img id="video_t" class="video_t" src="${cancion.foto_tuto}">
     `;
 }

@@ -16,65 +16,71 @@ E -------------------------------------------
 
 
 ESTROFA
-C
+C                                            
 Borra mi nombre de todas las frases que digas
 C                                          G
-Guarda silencio si vas a llamarme otra vez
-Fmaj7                G6              E/G#                 Am
-No me pronuncies en vano si tu corazón sigue medio averiado
+Guarda silencio si vas a llamarme otra vez  
+Fmaj7                G6              E/G#   
+No me pronuncies en vano si tu corazón sigue
+            Am
+medio averiado 
      F         G       C
 Que yo no merezco volver
-C
+C                                             
 Quema mi fotos no es justo que siga en tu vida
-C                                             G
+C                                             G 
 Pierde a mi sombra si vuelve a seguirte otra vez
-Fmaj7               G6                    E/G#              Am
-Ciérrame todas las puertas que cuando me fui se quedaron abiertas
-    F         G       C
+Fmaj7               G6                    E/G#
+Ciérrame todas las puertas que cuando me fui 
+              Am      
+se quedaron abiertas
+    F         G       C 
 Que yo no merezco volver
 
 
 
 CORO
-             F     C
+             F     C  
 No intentes perdonarme
-           F     C
+           F     C 
 Nunca te quise bien
-             F    C
+             F    C   
 No intentes perdonarme
-               G
+               G    
 Que yo no me perdoné
-Fmaj7       G6       E/G#      Am
+Fmaj7       G6       E/G#      Am    
 Dale un respiro a mi pobre conciencia
-    F         G       C
+    F         G       C 
 Que yo no merezco volver
 
 
 
 ESTROFA
-C
+C                                          
 Tu te has ganado el derecho para detestarme
-C                                     G
+C                                     G  
 Y que sea mas fácil hacerlo será mi deber
-Fmaj7                G6              E/G#                 Am
-Nadie jamas ha inventado ese dios que redima todos mis pecados
-  F         G       C
+Fmaj7                G6              E/G#  
+Nadie jamas ha inventado ese dios que redima
+               Am
+todos mis pecados
+  F         G       C 
 Y yo no merezco volver
 
 
 
 CORO
-             F     C
+             F     C  
 No intentes perdonarme
-           F     C
+           F     C 
 Nunca te quise bien
-             F    C
+             F    C   
 No intentes perdonarme
-               G
+               G    
 Que yo no me perdoné
-Fmaj7       G6       E/G#      Am
+Fmaj7       G6       E/G#      Am    
 Dale un respiro a mi pobre conciencia
-    F         G       C
+    F         G       C 
 Que yo no merezco volver
 
 
@@ -85,7 +91,7 @@ C - Am - F - G
 
 
 PARTE FINAL
-Fmaj7       G6       E/G#      Am
+Fmaj7       G6       E/G#      Am    
 Dale un respiro a mi pobre conciencia
-    F         G       C
+    F         G       C 
 Que yo no merezco volver

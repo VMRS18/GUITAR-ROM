@@ -93,25 +93,25 @@ E ----------------------------------------------
 
 
 ESTROFA
-RIFF 1
+RIFF 1                               
 Trato de decirte que ya no me faltas
-
+                           
 Mira que no estoy sufriendo
-RIFF 1
+RIFF 1                                
 Desde que te fuiste, nada me hace daño
-
+                            
 Mira que no estoy mintiendo
 
 
 
 PRE-CORO
-RIFF 2
+RIFF 2             
 Toma estas palabras
-
+             
 Ya no hay más
-RIFF 3
+RIFF 3                
 Y mira que esta noche
-
+                                
 No es por ti que estoy despierto
 
 
@@ -121,35 +121,35 @@ Em        C            G       D
 ¡No!, no voy a darlo todo por ti
 Em        C            G       D
 ¡Ya!, ya no me falta lo que te di
-Em        C           B7
+Em        C           B7        
 Sé que el tiempo hizo y deshizo
-Em           C
+Em           C   
 Todo lo que pudo
             G                 D   RIFF 4
-Porque al final, ya no estás tú
+Porque al final, ya no estás tú         
 
 
 
 ESTROFA
-RIFF 1
+RIFF 1                                 
 Ya ha pasado un rato y nada ha cambiado
-
+                          
 Mira que ya no estoy loco
-RIFF 1
+RIFF 1                            
 Ya no me lamento cada día que pasa
-
+                               
 Me estás perdiendo poco a poco
 
 
 
 PRE-CORO
-RIFF 2
+RIFF 2             
 Toma estas palabras
-
+              
 Ya no hay más
-RIFF 3
+RIFF 3               
 Y mira que esta noche
-
+                                
 No es por ti que estoy despierto
 
 
@@ -157,11 +157,11 @@ No es por ti que estoy despierto
 CORO
 Em        C            G       D
 ¡No!, no voy a darlo todo por ti
-Em        C            G       D
+Em        C            G       D 
 ¡Ya!, ya no me falta lo que te di
-Em        C           B7
+Em        C           B7       
 Sé que el tiempo hizo y deshizo
-Em           C
+Em           C  
 Todo lo que pudo
             G                 D
 Porque al final, ya no estás tú
@@ -184,9 +184,9 @@ Em        C            G       D
 ¡No!, no voy a darlo todo por ti
 Em        C            G       D
 ¡Ya!, ya no me falta lo que te di
-Em        C           B7
+Em        C           B7        
 Sé que el tiempo hizo y deshizo
-Em           C
+Em           C   
 Todo lo que pudo
             G                 D
 Porque al final, ya no estás tú
@@ -194,7 +194,7 @@ Porque al final, ya no estás tú
 
 
 ARREGLO FINAL
- C           G              D
+ C           G              D   
    Pero al final, a quién engaño
                   Em
 Eres mi nuevo vicio

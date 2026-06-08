@@ -132,23 +132,19 @@ body{
     transition: 0.2s;
 }
 .contenido_container{
-    overflow: hidden;
     padding: 20px;
-    height: 300px;
+    min-height: 300px;
     width: 90%;
     background-color: #0e0e15;
     border-radius: 20px;
     display: flex;
-    align-items: center;
     flex-direction: column;
+    overflow-wrap: break-word;
 }
 .contenido_container p{
-    display: flex;
-    align-items: center;
-    text-align: justify;
-    white-space: pre;
-    font-family: "Courier New", monospace;
-    font-size: 15px;
+    width: 100%;
+    text-align: left;
+    box-sizing: border-box;
 }
 .contenido_container h2{
     color: var(--texto-principal);
@@ -188,21 +184,22 @@ body{
     margin-bottom: 20px;
     color: white;
     padding: 5px;
-    font-size: 12px;
 }
 .letra-cancion{
-    display: flex;
-    align-items: center;
-    font-size: 13px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-family: "Courier New", monospace;
+
     white-space: pre-wrap;
+    overflow-wrap: break-word;
+
     background-color: #05050b;
     width: 100%;
     min-height: 50px;
     border-radius: 10px;
     border-left: 3px solid var(--azul-brillante2);
     color: white;
-    padding: 8px;
+    padding: 12px;
+    box-sizing: border-box;
 }
 
 
@@ -356,6 +353,18 @@ body{
     text-shadow: 0 0 10px var(--azul-brillante);
     transition: 0.2s;
 }
+.video_tuto img{
+    width: 100%;
+    height: 80%;
+}
+.video_tuto a{
+    text-decoration: none;
+    color: var(--texto-principal);
+}
+.video_tuto a:hover{
+    text-shadow: 0 0 10px var(--azul-brillante);
+    transition: 0.2s;
+}
 .video_tuto{
     width: 100%;
     height: 180px;
@@ -368,10 +377,6 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
-.video_tuto iframe{
-    width: 100%;
-    height: 80%;
 }
 .video_y{
     width: 210px;
@@ -547,10 +552,48 @@ body{
 }
 
 
+@media (max-width: 610px) {
+
+    .letra-cancion{
+        font-size: 14px;
+        font-family: "Courier New", monospace;
+
+        white-space: pre-wrap;
+        overflow-wrap: break-word;
+
+        background-color: #05050b;
+        width: 100%;
+        min-height: 50px;
+        border-radius: 10px;
+        border-left: 3px solid var(--azul-brillante2);
+        color: white;
+        padding: 12px;
+        box-sizing: border-box;
+    }
+}
+@media (max-width: 490px) {
+
+    .letra-cancion{
+        font-size: 15px;
+        font-family: "Courier New", monospace;
+
+        white-space: pre-wrap;
+        overflow-wrap: break-word;
+
+        background-color: #05050b;
+        width: 100%;
+        min-height: 50px;
+        border-radius: 10px;
+        border-left: 3px solid var(--azul-brillante2);
+        color: white;
+        padding: 12px;
+        box-sizing: border-box;
+    }
+}
 @media (max-width: 480px) {
 
     .header h2 {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .contenido_container h2 {

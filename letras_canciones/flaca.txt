@@ -37,25 +37,25 @@ ESTROFA
 Flaca no me claves
          Em
 Tus puñales
-            C
+            C 
 Por la espalda
-          G
+          G 
 Tan profundo
-         D
+         D  
 No me duelen
               G  D
 No me hacen mal
    G
 Lejos
-         B7
+         B7 
 En el centro
          Em
 De la tierra
-        C
+        C 
 Las raíces
-      G
+      G 
 Del amor
-         D
+         D   
 Donde estaban
       G  D
 Quedarán
@@ -64,37 +64,37 @@ Quedarán
 
 
 CORO
-  G
+  G                   
 Entre el no me olvides
-      B7                       Em
+      B7                       Em 
 Me dejé nuestros abriles olvidados
-                    C
+                    C  
 En el fondo del placard
-                   G
+                   G   
 Del cuarto de invitados
-                 D
+                 D   
 Eran tiempos dorados
                 G  D
 De un pasado mejor
-        G
+        G              
 Aunque casi me equivoco
-      B7
+      B7              
 Y te digo poco a poco
            Em
 No me mientas
-                   C
+                   C 
 No me digas la verdad
-                 G
+                 G  
 No te quedes callada
                  D
 No levantes la voz
                  G  D
 Ni me pidas perdón
-        G
+        G               
 Aunque casi te confieso
-      B7                           Em
+      B7                           Em  
 Que también he sido un perro compañero
-           C                      G
+           C                      G 
 Un perro ideal que aprendió a ladrar
                    D
 Y a volver al hogar
@@ -104,29 +104,29 @@ Para poder comper
 
 
 ESTROFA
-  G            B7
+  G            B7 
 Flaca no me claves
          Em
 Tus puñales
-            C
+            C 
 Por la espalda
-          G
+          G 
 Tan profundo
-         D
+         D  
 No me duelen
               G  D
 No me hacen mal
    G
 Lejos
-         B7
+         B7 
 En el centro
-         Em
+         Em 
 De la tierra
-        C
+        C  
 Las raíces
-      G
+      G 
 Del amor
-         D
+         D    
 Donde estaban
       G  D
 Quedarán

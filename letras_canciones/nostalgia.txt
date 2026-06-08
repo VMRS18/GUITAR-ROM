@@ -34,6 +34,7 @@ E -----------------------------------------
 INTRO
 F#m                             (riff 1)
      Como si el viento adivinara
+                              
 De la nostalgia que me embarga
 
 
@@ -58,19 +59,19 @@ E -----------------------------------------
 ESTROFA
                          
 Son tus recuerdos y están
-(riff 2)
+(riff 2)              
 Matándole a mi corazón
-(riff 3)
+(riff 3)                       
 Lo peor es que no puedo olvidar
-(riff 3)
+(riff 3)                      
 En la distancia te se esperar
-(riff 2)
+(riff 2)                 
 Y vuelve en llanto a caer
-(riff 2)
+(riff 2)                 
 Abrazando esta mi soledad
-(riff 3)
+(riff 3)               
 Mi vida no tiene razón
-(riff 3)
+(riff 3)                    
 Sin ti yo no sé a dónde voy
 
 
@@ -151,21 +152,21 @@ E -----------------------------------------------
 
 
 
-(riff 4)
+(riff 4)                   
 Como si el viento adivinara
-(riff 4)
+(riff 4)                       
 De la nostalgia que me embarga
-(riff 5)
+(riff 5)                   
 Solo y frente a este mundo
-(riff 5)
+(riff 5)                      
 Solo y con todos tus recuerdos
-(riff 6)
+(riff 6)                      
 No me resigno a perder tu amor
-(riff 5)
+(riff 5)                   
 Es más me niego a olvidarte
-(riff 5)
+(riff 5)                
 Sabes no quiero perderte
-(riff 7)
+(riff 7)                
 Te amo mil veces, te amo
 
 
@@ -221,21 +222,21 @@ E ----------------------------------------------------
 
 
 CORO
-(riff 4)
+(riff 4)                   
 Como si el viento adivinara
-(riff 4)
+(riff 4)                      
 De la nostalgia que me embarga
-(riff 5)
+(riff 5)                  
 Solo y frente a este mundo
-(riff 5)
+(riff 5)                       
 Solo y con todos tus recuerdos
-(riff 6)
+(riff 6)                      
 No me resigno a perder tu amor
-(riff 5)
+(riff 5)                   
 Es más me niego a olvidarte
-(riff 5)
+(riff 5)                
 Sabes no quiero perderte
-(riff 7)
+(riff 7)                
 Te amo mil veces, te amo
 
 

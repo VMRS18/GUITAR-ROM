@@ -1,35 +1,35 @@
 ESTROFA
-C#m7
+C#m7                                
 Si el tiempo pasa y no te puedo ver
-F#7
+F#7                          
 Me falta poco para enloquecer
 A                              E
 Ya no me alcanzan tus recuerdos
-C#m7
+C#m7                            
 A mi memoria le hace mal tu amor
-F#7
+F#7                                 
 Si a mí me pasa sé que a ti también
 A                              E
 Ya no me alcanzan tus recuerdos
-
+                              
 (No me alcanzan tus recuerdos)
 
 
 
-PRE-CORO
-                       C#m7
+PRE-CORO 
+                       C#m7          
 Tus ojos verdes no conservan su color
-                       F#7
+                       F#7             
 Y en mi cabeza nunca suena igual tu voz
-        A
+        A                       
 Ya no quiero acudir a recuerdos
              E
 Te quiero aquí
-                       C#m7
+                       C#m7            
 Busco tus besos y no encuentro su sabor
-                       F#7
+                       F#7                      
 Pienso en tu risa y sin pensar caigo en mi error
-        A
+        A                      
 Ya no quiero acudir a recuerdos
              Emaj7
 Te quiero aquí
@@ -41,7 +41,7 @@ CORO
 Porque aunque no pueda verte
                         F#7
 Yo nunca culparé a la suerte
-                       A
+                       A  
 Yo ya gasté toda mi suerte
                                    E
 Mi suerte la usé en encontrarte a ti
@@ -49,7 +49,7 @@ Mi suerte la usé en encontrarte a ti
 Y aunque me quede sin nada
                         F#7
 Yo nunca culparé a la suerte (Suerte)
-                      A
+                      A   
 Yo ya gasté toda mi suerte
                                    E
 Mi suerte la usé en encontrarte a ti
@@ -57,37 +57,37 @@ Mi suerte la usé en encontrarte a ti
 
 
 ESTROFA
-               C#m7
+               C#m7                      
 Tengo que confesarte, hoy que estás aquí
-F#7
+F#7                                    
 No te has ido y ya empiezo a extrañarte
-A
+A                                                         
 Quiero que pase lento el tiempo entre tú y yo (Muy lento)
-E
+E                                             
 Muy lento el tiempo entre tú y yo (Muy lento)
-               C#m7
+               C#m7                                    
 Y aunque de a ratos pueda ver en mi guitarra tu cintura
-F#7
+F#7                                                      
 Y aunque pueda ver tus fotos sé que no estan a tu altura
-A                                        E
+A                                        E 
 No hay ninguna cura a la locura de perderte
 
 
 
 PRE-CORO
-                       C#m7
+                       C#m7           
 Tus ojos verdes no conservan su color
-                       F#7
+                       F#7             
 Y en mi cabeza nunca suena igual tu voz
-        A
+        A                      
 Ya no quiero acudir a recuerdos
              E
 Te quiero aquí
-                       C#m7
+                       C#m7            
 Busco tus besos y no encuentro su sabor
-                       F#7
+                       F#7                       
 Pienso en tu risa y sin pensar caigo en mi error
-        A
+        A                       
 Ya no quiero acudir a recuerdos
              E
 Te quiero aquí
@@ -95,17 +95,17 @@ Te quiero aquí
 
 
 CORO
-                         C#m7
+                         C#m7       
 Porque aunque no pueda verte (Verte)
-                       F#7
+                       F#7           
 Yo nunca culparé a la suerte (Suerte)
-                       A
+                       A  
 Yo ya gasté toda mi suerte
-                                   E
+                                   E                             
 Mi suerte la usé en encontrarte a ti (La usé en encontrarte a ti)
-                         C#m7
+                         C#m7    
 Y aunque me quede sin nada (Nada)
-                       F#7
+                       F#7           
 Yo nunca culparé a la suerte (Suerte)
                        A
 Yo ya gasté toda mi suerte
@@ -158,17 +158,17 @@ E -------------------------------------------
 CORO FINAL
                          C#m7
 Porque aunque no pueda verte
-                       F#7
+                       F#7  
 Yo nunca culparé a la suerte
-                       A
+                       A   
 Yo ya gasté toda mi suerte
                                    E
 Mi suerte la usé en encontrarte a ti
                          C#m7
 Y aunque me quede sin nada
-                       F#7
+                       F#7  
 Yo nunca culparé a la suerte
-                       A
+                       A   
 Yo ya gasté toda mi suerte
                                    E
 Mi suerte la usé en encontrarte a ti

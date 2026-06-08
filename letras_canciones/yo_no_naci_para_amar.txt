@@ -9,21 +9,21 @@ E --0----------0----0------------------------
 
 
 ESTROFA
-Em
+Em             
 A mis dieciséis
-                   Am
+                   Am              
 Anhelaba tanto un amor que no llegó
-D7
+D7               
 Siempre lo esperé
-                         G                       B7
+                         G                       B7   
 Todos mis amigos se encontraban en la misma situación
-Em
+Em             
 Y después yo vi
-                         Am
+                         Am           
 Cómo iban cambiando su manera de vivir
-D7
+D7               
 Todos con su amor
-                           G                         B7
+                           G                         B7 
 Cada uno de ellos muy sonrientes, muy felices, menos yo
 
 
@@ -37,25 +37,25 @@ E -------------------------------------------
 
 
 
-Em
+Em         
 Una soledad
-                              Am
+                              Am         
 Cada vez más triste y más obscura yo viví
-D7
+D7          
 Y a esa edad
-                         G                       B7
+                         G                       B7  
 Todos preguntaban los motivos, yo solía siempre decir
 
 
 
 CORO
-        Em                     C
+        Em                     C         
 Yo no nací para amar, nadie nació para mí
-        D7                C        B7
+        D7                C        B7 
 Tan solo fui un loco soñador, no más
-        Em                     C
+        Em                     C         
 Yo no nací para amar, nadie nació para mí
-        D7                C        B7
+        D7                C        B7  
 Mis sueños nunca se volvieron realidad
 
 
@@ -78,19 +78,19 @@ E -------------------------------------------
 
 
 ESTROFA
-Em
+Em               
 Siempre lo busqué
-                   Am
+                   Am             
 Pero nunca pude encontrar ese amor
-D7
+D7               
 Siempre lo esperé
-                         G                       B7
+                         G                       B7 
 Y en todas partes que esperaba, ese amor nunca llegó
-Em
+Em             
 Hoy mi soledad
-                              Am
+                              Am            
 Cada vez más triste y más obscura pueden ver
-D7
+D7               
 Hoy, en esta edad
                            G                         B7
 Aún me preguntan mis amigos y es tan triste responder
@@ -98,23 +98,23 @@ Aún me preguntan mis amigos y es tan triste responder
 
 
 CORO
-        Em                     C
+        Em                     C         
 Yo no nací para amar, nadie nació para mí
-        D7                C        B7
+        D7                C        B7  
 Tan solo fui un loco soñador, no más
-        Em                     C
+        Em                     C          
 Yo no nací para amar, nadie nació para mí
-        D7                C        B7
+        D7                C        B7 
 Mis sueños nunca se volvieron realidad
-        Em                     C
+        Em                     C          
 Yo no nací para amar, nadie nació para mí
         D7                C        B7
 Tan solo fui un loco soñador, no más
-        Em                     C
+        Em                     C         
 Yo no nací para amar, nadie nació para mí
            D7             C
 Mis sueños no se realizaron
              Em
-Yo no nací
+Yo no nací    
        C B7 Em
-Para amar
+Para amar     

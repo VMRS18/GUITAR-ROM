@@ -21,19 +21,19 @@ E -------------------------------------------
 
 
 ESTROFA
-A
+A        
 Hoy volví
-                                  F#
+                                  F#        
 A dormir en nuestra cama, y todo sigue igual
-                                D 
+                                D      
 El aire y nuestros gatos, nada cambiará
    Dm                       Bm         E
 Difícil olvidarte estando aquí, oh-oh-oh
-     A 
+     A       
 Te quiero ver
-                             F#
+                             F#         
 Aún te amo y creo que hasta más que ayer
-                          D 
+                          D      
 La hiedra venenosa no te deja ver
      Dm                       Bm         E 
 Me siento mutilada y tan pequeña, ah-ah-ah
@@ -41,13 +41,13 @@ Me siento mutilada y tan pequeña, ah-ah-ah
 
 
 CORO
- A            C#7
+ A            C#7       
 Ven y cuéntame la verdad
-        D           Dm
+        D           Dm    
 Ten piedad y dime por qué
-E 
+E                 
 No, no, no, oh-oh
-A                            C#7
+A                            C#7  
  ¿Cómo fue que me dejaste de amar?
                 D    
 Yo aún podía soportar
@@ -57,35 +57,35 @@ E                      A   E
 
 
 ESTROFA
-A
+A          
 Hace un mes
-                           F#
+                           F#     
 Solía escucharte y ser tu cómplice
-                             D 
+                             D         
 Pensé que ya no había nadie más que tú
-   Dm                          Bm         E
+   Dm                          Bm         E 
 Yo fui tu amiga y fui tu compañera, ah-ah-ah
-       A 
+       A     
 Ahora dormiré
-                        F#
+                        F#    
 Muy profundamente para olvidar
-                              D 
+                              D        
 Quisiera hasta la muerte para no pensar
-      Dm                       Bm         E 
+      Dm                       Bm         E  
 Me borro pa quitarme esta amargura, ah-ah-ah
 
 
 
 CORO
- A            C#7
+ A            C#7        
 Ven y cuéntame la verdad
-        D           Dm
+        D           Dm   
 Ten piedad y dime por qué
-E 
+E                 
 No, no, no, oh-oh
-A                            C#7
+A                            C#7  
  ¿Cómo fue que me dejaste de amar?
-                D    
+                D      
 Yo aún podía soportar
 E                      A   E
  Tu tanta falta de querer
@@ -135,15 +135,15 @@ E -------------------------------------------
 
 
 CORO FINAL
- A            C#7
+ A            C#7       
 Ven y cuéntame la verdad
-        D           Dm
+        D           Dm   
 Ten piedad y dime por qué
-E 
+E                 
 No, no, no, oh-oh
-A                            C#7
+A                            C#7  
  ¿Cómo fue que me dejaste de amar?
-                D    
+                D      
 Yo aún podía soportar
-E                      A
+E                      A 
  Tu tanta falta de querer

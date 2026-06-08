@@ -5,8 +5,9 @@
         "acordes":"C - G - Am - F - Fmaj7 - G6 - E/G#",
         "letra":"../letras_canciones/yo_no_merezco_volver.txt",
         "video_youtube":"https://www.youtube.com/watch?v=OlXpAWn7t0o&list=RDOlXpAWn7t0o&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/yo_no_merezco_volver.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=_ROppWCbKCw&list=RD_ROppWCbKCw&start_radio=1",
+        "foto_cancion":"../img/foto_canciones/yo_no_merezco_volver.jpg",
+        "foto_tuto":"../img/foto_tuto/YO_NO_MEREZCO_VOLVER_MORAT.jpg"
     },
     {
         "titulo":"Ya no estas tu",
