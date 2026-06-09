@@ -440,7 +440,69 @@ body{
 
 
 
+@media (max-width: 1250px){
+    .contenido_container pre{
+        font-size: 19px;
+    }
+    .central_container{
+        width: 97%;
+    }
+    .contenido_container{
+        width: 90%;
+        padding: 0px;
+    }
+    #acordes-imgs{
+        width: 100%;
+        padding: 0px;
+    }
 
+    #letra-cancion{
+        width: 100%;
+        margin: 0px;
+    }
+}
+@media (max-width: 1155px){
+    .contenido_container pre{
+        font-size: 18px;
+    }
+    .central_container{
+        width: 97%;
+    }
+    .contenido_container{
+        width: 90%;
+        padding: 0px;
+    }
+    #acordes-imgs{
+        width: 100%;
+        padding: 0px;
+    }
+
+    #letra-cancion{
+        width: 100%;
+        margin: 0px;
+    }
+}
+@media (max-width: 1105px){
+    .contenido_container pre{
+        font-size: 16px;
+    }
+    .central_container{
+        width: 97%;
+    }
+    .contenido_container{
+        width: 90%;
+        padding: 0px;
+    }
+    #acordes-imgs{
+        width: 100%;
+        padding: 0px;
+    }
+
+    #letra-cancion{
+        width: 100%;
+        margin: 0px;
+    }
+}
 
 @media (max-width: 1024px) {
 
@@ -464,6 +526,10 @@ body{
     .tbody tr td {
         width: 100%;
     }
+    
+    .contenido_container pre{
+        font-size: 23px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -480,6 +546,11 @@ body{
 
     .header h2 {
         font-size: 16px;
+    }
+
+    .central_container{
+        width: 99%;
+        height: auto;
     }
 
     .central_container form {
@@ -499,8 +570,22 @@ body{
     }
 
     .contenido_container {
-        width: 95%;
+        width: 93%;
+        padding: 3px;
         height: auto;
+    }
+
+    .contenido_container pre{
+        font-size: 23px;
+    }
+
+    #acordes-imgs{
+        width: 100%;
+        padding: 0px;
+    }
+
+    #letra-cancion{
+        width: 100%;
     }
 
     .contenido_container p {
@@ -551,6 +636,16 @@ body{
     }
 }
 
+@media (max-width: 720px){
+    .contenido_container pre{
+        font-size: 20px;
+    }
+}
+@media (max-width: 628px){
+    .contenido_container pre{
+        font-size: 18px;
+    }
+}
 
 @media (max-width: 610px) {
 
@@ -571,10 +666,39 @@ body{
         box-sizing: border-box;
     }
 }
+@media (max-width: 572px){
+    .contenido_container pre{
+        font-size: 15px;
+    }
+}
+@media (max-width: 560px){
+    .contenido_container pre{
+        font-size: 15px;
+    }
+    .central_container{
+        width: 97%;
+    }
+    .contenido_container{
+        width: 90%;
+        padding: 0px;
+    }
+    #acordes-imgs{
+        width: 100%;
+        padding: 0px;
+    }
+
+    #letra-cancion{
+        width: 100%;
+        margin: 0px;
+    }
+}
+
+
+
 @media (max-width: 490px) {
 
     .letra-cancion{
-        font-size: 15px;
+        font-size: 16px;
         font-family: "Courier New", monospace;
 
         white-space: pre-wrap;
@@ -605,7 +729,7 @@ body{
     }
 
     .letra-cancion {
-        font-size: 12px;
+        font-size: 15px;
     }
 
     .imgs_acordes img {
