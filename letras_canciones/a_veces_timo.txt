@@ -9,30 +9,41 @@ Dsus2 - A#dim7 - Bm7 - Gsus2
 ESTROFA
                 Dsus2 A#dim7 
 Me tienes confundido
-Bm7                           Gsus2       
-Porque cuando te abrazo se siente caliente
+Bm7                           
+Porque cuando te abrazo se
+   Gsus2    
+siente caliente
                   Dsus2 A#dim7
 pero también frío
-      Bm7                      Gsus2       
-No se puede ver el vaso medio lleno cuando
+      Bm7                        
+No se puede ver el vaso medio
+ Gsus2    
+lleno cuando
             Dsus2 A#dim7 
 estás vacío
-               Bm7            Gsus2      
-Y si fuera por mí, te dejaría ir, pero yo
+               Bm7             
+Y si fuera por mí, te dejaría
+Gsus2    
+ir, pero yo
                Dsus2
 aquí no decido
-A#dim7                Bm7     Gsus2
+A#dim7                Bm7    Gsus2
 Mi corazón me lo ha prohibido
-
 
 
 PRE-CORO
 Bm7                      A            
-Me llama, me ignora, me dice lo siento
+Me llama, me ignora, me dice
+         
+lo siento
 Em7                     A                
-Me abraza, me llora, yo ya no lo entiendo
-Bm7                      A               Em9
-Me cambia la vida en tan solo un momento
+Me abraza, me llora, yo ya no
+           
+lo entiendo
+Bm7                      A     
+Me cambia la vida en tan solo
+          Em9
+un momento
               G/A
 Y no puedo más
 
@@ -41,42 +52,51 @@ Y no puedo más
 CORO
               Dsus2 
 Y vuelve a pasar
-                  A#dim7            Bm7
-Que a veces me quieres y a veces te vas
-           Am7      Dsus2         Gsus2
-A veces mereces que no vuelva más
-              D/F#            Em7 
-Porque no se puede amar a la mitad
+                  A#dim7         
+Que a veces me quieres y a veces
+   Bm7
+te vas
+           Am7      Dsus2     
+A veces mereces que no vuelva
+    Gsus2
+más
+              D/F#      
+Porque no se puede amar
+      Em7 
+a la mitad
    Gm6    
 A la mitad
     Dsus2
 Y además
-            A#dim7            Bm7   
-Parece que a veces no soy suficiente
-              Am7      Dsus2         Gsus2
-Que soy el de ahora pero habrá un siguiente
+            A#dim7        
+Parece que a veces no soy
+    Bm7   
+suficiente
+              Am7      Dsus2   
+Que soy el de ahora pero habrá
+      Gsus2
+un siguiente
        D/F#            Em7
 Que amarás más de la mitad
        Gm6              
 Que amarás completamente
 
 
-
 SOLO 
-E -------------------------------------------
-B -5/7-5-8-7-5--------7-8-7-5----------------
-G -------------7----7---------7--------------
-D -------------------------------------------
-A -------------------------------------------
-E -------------------------------------------
+E ----------------------------------
+B -5/7-5-8-7-5--------7-8-7-5-------
+G -------------7----7---------7-----
+D ----------------------------------
+A ----------------------------------
+E ----------------------------------
 
 
-E -------------------------------------------
-B -------------------------------------------
-G -4--6-7------------------------------------
-D --------7--9-11----------------------------
-A ----------------10-------------------------
-E -------------------------------------------
+E ----------------------------------
+B ----------------------------------
+G -4--6-7---------------------------
+D --------7--9-11-------------------
+A ----------------10----------------
+E ----------------------------------
 
 
 
@@ -91,10 +111,14 @@ Tu amor se fue pero nunca regresó
 El corazón no se parte
        Em9             
 Yo no quiero otra parte
-        G/A                    Dsus2 
-Quiero ser el dueño de las dos
-        A#dim7                    Bm7 
-Porque te quiero amar a ti de verdad
+        G/A                
+Quiero ser el dueño de las
+    Dsus2 
+dos
+        A#dim7                
+Porque te quiero amar a ti de
+    Bm7 
+verdad
           Am7        Dsus2    Gsus2 
 Y ser la causa de tu felicidad
             D/F#          
@@ -107,20 +131,28 @@ Yo quiero que sea una realidad
 CORO
               Dsus2 
 Y vuelve a pasar
-                  A#dim7            Bm7
-Que a veces me quieres y a veces te vas
-           Am7      Dsus2         Gsus2
-A veces mereces que no vuelva más
+                  A#dim7         
+Que a veces me quieres y a veces
+   Bm7
+te vas
+           Am7      Dsus2     
+A veces mereces que no vuelva
+    Gsus2
+más
               D/F#            Em7 
 Porque no se puede amar a la mitad
    Gm6    
 A la mitad
     Dsus2
 Y además
-            A#dim7            Bm7   
-Parece que a veces no soy suficiente
-              Am7      Dsus2         Gsus2
-Que soy el de ahora pero habrá un siguiente
+            A#dim7         
+Parece que a veces no soy
+    Bm7  
+suficiente
+              Am7      Dsus2   
+Que soy el de ahora pero habrá
+      Gsus2
+un siguiente
        D/F#            Em7
 Que amarás más de la mitad
        Gm6               
@@ -129,20 +161,20 @@ Que amarás completamente
 
 
 SOLO 
-E -------------------------------------------
-B -5/7-5-8-7-5--------7-8-7-5----------------
-G -------------7----7---------7--------------
-D -------------------------------------------
-A -------------------------------------------
-E -------------------------------------------
+E ----------------------------------
+B -5/7-5-8-7-5--------7-8-7-5-------
+G -------------7----7---------7-----
+D ----------------------------------
+A ----------------------------------
+E ----------------------------------
 
 
-E -------------------------------------------
-B -------------------------------------------
-G -4--6-7------------------------------------
-D --------7--9-11----------------------------
-A ----------------10-------------------------
-E -------------------------------------------
+E ----------------------------------
+B ----------------------------------
+G -4--6-7---------------------------
+D --------7--9-11-------------------
+A ----------------10----------------
+E ----------------------------------
 
 
 
@@ -157,8 +189,10 @@ Am7       Dsus2
 Y otras vacío
   Gsus2             D/F#        
 En tus sentimientos nunca confío
-    Em9                              Gm6
-Sin tu corazón, yo también pierdo el mío
+    Em9                           
+Sin tu corazón, yo también pierdo
+   Gm6
+el mío
 Dsus2           
 A veces caliente
 A#dim7         
@@ -169,28 +203,38 @@ Am7       Dsus2
 Y otras vacío
   Gsus2             D/F#         
 En tus sentimientos nunca confío
-    Em9                              Gm6
-Sin tu corazón, yo también pierdo el mío
+    Em9                           
+Sin tu corazón, yo también pierdo
+   Gm6
+el mío
 
 
 
 CORO FINAL
               Dsus2 
 Y vuelve a pasar
-                  A#dim7            Bm7
-Que a veces me quieres y a veces te vas
-           Am7      Dsus2         Gsus2
-A veces mereces que no vuelva más
+                  A#dim7         
+Que a veces me quieres y a veces
+   Bm7
+te vas
+           Am7      Dsus2     
+A veces mereces que no vuelva
+    Gsus2
+más
               D/F#            Em7 
 Porque no se puede amar a la mitad
    Gm6    
 A la mitad
     Dsus2
 Y además
-            A#dim7            Bm7  
-Parece que a veces no soy suficiente
-              Am7      Dsus2         Gsus2
-Que soy el de ahora pero habrá un siguiente
+            A#dim7        
+Parece que a veces no soy
+    Bm7  
+suficiente
+              Am7      Dsus2   
+Que soy el de ahora pero habrá
+      Gsus2
+un siguiente
        D/F#            Em7
 Que amarás más de la mitad
        Gm6               
@@ -209,8 +253,10 @@ Am7       Dsus2
 Y otras vacío
   Gsus2             D/F#        
 En tus sentimientos nunca confío
-    Em9                              Gm6
-Sin tu corazón, yo también pierdo el mío
+    Em9                           
+Sin tu corazón, yo también pierdo
+   Gm6
+el mío
 Dsus2           
 A veces caliente
 A#dim7        
@@ -221,5 +267,7 @@ Am7       Dsus2
 Y otras vacío
   Gsus2             D/F#        
 En tus sentimientos nunca confío
-    Em9                              Gm6
-Sin tu corazón, yo también pierdo el mío
+    Em9                           
+Sin tu corazón, yo también pierdo
+   Gm6
+el mío

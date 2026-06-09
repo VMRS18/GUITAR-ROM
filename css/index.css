@@ -186,7 +186,7 @@ body{
     padding: 5px;
 }
 .letra-cancion{
-    font-size: 18px;
+    font-size: 22px;
     font-family: "Courier New", monospace;
 
     white-space: pre-wrap;
@@ -423,7 +423,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 10px;
-    width: 250px;
+    width: 100%;
     height: 40px;
     border-radius: 10px;
     background: linear-gradient(to right,var(--azul-brillante) 80%, var(--azul-brillante2));
@@ -442,7 +442,7 @@ body{
 
 @media (max-width: 1250px){
     .contenido_container pre{
-        font-size: 19px;
+        font-size: 23px;
     }
     .central_container{
         width: 97%;
@@ -460,10 +460,11 @@ body{
         width: 100%;
         margin: 0px;
     }
+    
 }
 @media (max-width: 1155px){
     .contenido_container pre{
-        font-size: 18px;
+        font-size: 22px;
     }
     .central_container{
         width: 97%;
@@ -484,7 +485,7 @@ body{
 }
 @media (max-width: 1105px){
     .contenido_container pre{
-        font-size: 16px;
+        font-size: 20px;
     }
     .central_container{
         width: 97%;
@@ -528,7 +529,7 @@ body{
     }
     
     .contenido_container pre{
-        font-size: 23px;
+        font-size: 24px;
     }
 }
 
@@ -638,12 +639,12 @@ body{
 
 @media (max-width: 720px){
     .contenido_container pre{
-        font-size: 20px;
+        font-size: 22px;
     }
 }
 @media (max-width: 628px){
     .contenido_container pre{
-        font-size: 18px;
+        font-size: 21px;
     }
 }
 
@@ -668,12 +669,12 @@ body{
 }
 @media (max-width: 572px){
     .contenido_container pre{
-        font-size: 15px;
+        font-size: 20px;
     }
 }
 @media (max-width: 560px){
     .contenido_container pre{
-        font-size: 15px;
+        font-size: 18px;
     }
     .central_container{
         width: 97%;
@@ -695,7 +696,7 @@ body{
 
 
 
-@media (max-width: 490px) {
+@media (max-width: 500px) {
 
     .letra-cancion{
         font-size: 16px;
@@ -712,6 +713,9 @@ body{
         color: white;
         padding: 12px;
         box-sizing: border-box;
+    }
+    .contenido_container pre{
+        font-size: 17px;
     }
 }
 @media (max-width: 480px) {

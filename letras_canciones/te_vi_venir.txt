@@ -24,8 +24,10 @@ Perderte sí me da pavor
 
 
 PRE-CORO
-Asus2                              G#m7 Gm7
-No me queda más refugio que la fantasía
+Asus2                      
+No me queda más refugio que
+        G#m7 Gm7
+la fantasía
 F#m7                     
 No me queda más que hacer
                     Bsus2
@@ -38,14 +40,22 @@ CORO
 Porque te vi venir y no dudé
      G#m7                
 Te vi llegar y te abracé
-     F#m7                              E  
-Y puse toda mi pasión para que te quedaras
-      Asus2                          G#m7    
-Y luego te besé y me arriesgué con la verdad
-                  F#m7                             E    
-Te acaricié y al fin abrí mi corazón para que tú pasaras
-    Asus2                                    E  
-Mi amor te di sin condición para que te quedaras
+     F#m7                     
+Y puse toda mi pasión para que
+         E  
+te quedaras
+      Asus2                   
+Y luego te besé y me arriesgué
+       G#m7    
+con la verdad
+                  F#m7      
+Te acaricié y al fin abrí mi
+                       E    
+corazón para que tú pasaras
+    Asus2                  
+Mi amor te di sin condición
+                  E  
+para que te quedaras
 
 
 
@@ -53,7 +63,9 @@ ESTROFA
 Asus2                      
 Ahora esperaré algunos días
              G#m7                      
-Para ver si lo que te di fue suficiente
+Para ver si lo que te di
+              
+fue suficiente
       F#m7                    
 No sabes qué terror se siente
       G#7               
@@ -61,7 +73,9 @@ La espera cada madrugada
 Asus2                        
 Si tú ya no quisieras volver
                  G#m7                       
-Se perdería el sentido del amor por siempre
+Se perdería el sentido del amor
+            
+por siempre
       F#m7                  
 No entendería ya este mundo
       G#7              
@@ -70,8 +84,10 @@ Me alejaría de la gente
 
 
 PRE-CORO
-Asus2                              G#m7 Gm7
-No me queda más refugio, que la fantasía
+Asus2                   
+No me queda más refugio,
+           G#m7 Gm7
+que la fantasía
 F#m7                       
 (No me queda más que hacer)
                     Bsus2
@@ -84,15 +100,27 @@ CORO
 Porque te vi venir y no dudé
      G#m7               
 Te vi llegar y te abracé
-     F#m7                              E  
-Y puse toda mi pasión para que te quedaras
-      Asus2                          G#m7   
-Y luego te besé y me arriesgué con la verdad
-                  F#m7                             E    
-Te acaricié y al fin abrí mi corazón para que tú pasaras
-    Asus2                                    E  
-Mi amor te di sin condición para que te quedaras
-    Asus2                                    E  
-Mi amor te di sin condición para que te quedaras
-    Asus2                                    E  
-Mi amor te di sin condición para que te quedaras
+     F#m7                     
+Y puse toda mi pasión para que
+         E  
+te quedaras
+      Asus2                   
+Y luego te besé y me arriesgué
+       G#m7   
+con la verdad
+                  F#m7   
+Te acaricié y al fin abrí
+                          E    
+mi corazón para que tú pasaras
+    Asus2                  
+Mi amor te di sin condición
+                  E  
+para que te quedaras
+    Asus2                  
+Mi amor te di sin condición
+                  E  
+para que te quedaras
+    Asus2                  
+Mi amor te di sin condición
+                  E  
+para que te quedaras

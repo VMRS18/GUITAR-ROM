@@ -1,7 +1,6 @@
 CAPO TRASTE EN EL 2DO TRASTE
 
 
-
 ESTROFA
 A                          B 
 Cómo voy a dejar de quererte
@@ -15,10 +14,14 @@ Si cuando sueño contigo estoy bien
 
 
 PRE-CORO
-               A                          B  
-Y ahora ven y dime que nada de esto es verdad
-                           C#m     B                A 
-Que solo fui otro juguete roto para tu largo historial
+               A              
+Y ahora ven y dime que nada de
+            B  
+esto es verdad
+                           C#m
+Que solo fui otro juguete roto
+     B                A 
+para tu largo historial
     B  
 Ah, ah
 
@@ -29,34 +32,46 @@ CORO
 Y sigo soñando contigo
                            B        
 Y aunque tú ya no quieras nada de mí 
-                        C#m          B         A  
-Me duele saber que todo este tiempo deja cicatriz
+                        C#m 
+Me duele saber que todo este
+         B         A  
+tiempo deja cicatriz
           A             
 Y quiero dejar de querer
                          B      
 Todo lo que quiero contigo y más
-               C#m          B         A   
-Pero cuando te miro no me importa nada más
+               C#m          B    
+Pero cuando te miro no me importa
+     A   
+nada más
 
 
 
 ESTROFA
 A                          B    
 Seguramente nunca vuelva a verte
-           C#m     B      A           
-Porque me dijiste que no volviera a ti
+           C#m     B 
+Porque me dijiste que
+     A           
+no volviera a ti
 A                         B    
 Seguramente casi ni te acuerdes
            C#m     B       A                      
-De cómo me llamo porque nunca llamaste a mi puerta
+De cómo me llamo porque nunca
+                    
+llamaste a mi puerta
 
 
 
 PRE-CORO
-               A                          B  
-Y ahora ven y dime que nada de esto es verdad
-                           C#m     B                A 
-Que solo fui otro juguete roto para tu largo historial
+               A              
+Y ahora ven y dime que nada de
+            B  
+esto es verdad
+                           C#m
+Que solo fui otro juguete roto
+     B                A 
+para tu largo historial
     B 
 Ah, ah
 
@@ -67,14 +82,18 @@ CORO
 Y sigo soñando contigo
                            B        
 Y aunque tú ya no quieras nada de mí
-                        C#m          B         A  
-Me duele saber que todo este tiempo deja cicatriz
+                        C#m 
+Me duele saber que todo este
+         B         A  
+tiempo deja cicatriz
           A             
 Y quiero dejar de querer
                          B      
 Todo lo que quiero contigo y más
-               C#m          B         A   
-Pero cuando te miro no me importa nada más
+               C#m       
+Pero cuando te miro no me
+   B         A   
+importa nada más
 
 
 
@@ -83,11 +102,15 @@ CORO FINAL
 Y sigo soñando contigo
                            B         
 Y aunque tú ya no quieras nada de mí
-                        C#m          B         A  
-Me duele saber que todo este tiempo deja cicatriz
+                        C#m 
+Me duele saber que todo este
+         B         A  
+tiempo deja cicatriz
           A              
 Y quiero dejar de querer
                          B      
 Todo lo que quiero contigo y más
-               C#m          B         A    
-Pero cuando te miro no me importa nada más
+               C#m          B    
+Pero cuando te miro no me importa
+     A    
+nada más

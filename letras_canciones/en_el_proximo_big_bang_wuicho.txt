@@ -3,7 +3,6 @@ Am - F - C
 Am - F - C
 
 
-
 ESTROFA 
         Am          F             C  
 "Nunca pedí que hicieras eso por mí"
@@ -11,22 +10,32 @@ ESTROFA
 Fue lo que dijo ella antes de partir
         Am          F         C  
 Mi corazón dice que voy a morir
-             Am             F           C  
-Sé bien que puedo, mas no quiero estar así
+             Am             F    
+Sé bien que puedo, mas no quiero
+       C  
+estar así
            F                    
 ¿Qué tan bueno será dejarnos ir?
 
 
 
 CORO 
-       Am       F               C            
-¿Para qué lastimarnos, si al final entenderás
-             Am                F               C                 
-Que en las estrellas nuestros nombres siempre se van a encontrar?
+       Am       F            
+¿Para qué lastimarnos, si al
+   C            
+final entenderás
+             Am                      
+Que en las estrellas nuestros
+  F               C          
+nombres siempre se van a encontrar?
        Am       F           C                   
-Que no puedo dejarte de adorar, flaca, y te vas
-             Am        F            C             
-Pero con suerte nos veremos en el próximo big bang
+Que no puedo dejarte de adorar,
+                
+flaca, y te vas
+             Am        F       
+Pero con suerte nos veremos en
+     C             
+el próximo big bang
 
 
 
@@ -42,9 +51,13 @@ Todo lo vivido y un poquito más
                   Am 
 ¿Que chingados gritar?
         F         C                        
-Que no te dejo de amar (no te dejo de amar)
+Que no te dejo de amar
+                    
+(no te dejo de amar)
       Dm         Am                        
-Que todas las mentiras que yo me he creído
+Que todas las mentiras que
+               
+yo me he creído
       F        C 
 Se vuelvan verdad
      Am         F    C
@@ -59,14 +72,22 @@ Y no te dejaré de amar
 
 
 CORO 
-       Am       F               C            
-¿Para qué lastimarnos, si al final entenderás
-             Am                F               C                 
-Que en las estrellas nuestros nombres siempre se van a encontrar?
+       Am       F           
+¿Para qué lastimarnos, si al
+    C            
+final entenderás
+             Am              
+Que en las estrellas nuestros
+  F               C                 
+nombres siempre se van a encontrar?
        Am       F           C                  
-Que no puedo dejarte de adorar, flaca, y te vas
-             Am        F            C             
-Pero con suerte nos veremos en el próximo big bang
+Que no puedo dejarte de adorar,
+                
+flaca, y te vas
+             Am        F      
+Pero con suerte nos veremos en
+      C             
+el próximo big bang
 Am F C              Am 
        En el siguiente
 F            C        
@@ -78,14 +99,24 @@ Am F C              Am
 
 CORO FINAL
           Am    F         C                    
-Nunca te dije toda la verdad y, aunque está mal
+Nunca te dije toda la verdad y,
+               
+aunque está mal
        Am             F        C
 Esperaré a volvernos a encontrar
        Am       F          C                
-Nunca te dije toda la verdad, flaca, y verás
-              Am         F           C           
-Que con mis manos y tu piel la Luna nos envidiará
-             Am        F            C              
-Quizá con suerte nos veremos en el próximo big bang
-           Am          F              C             
-Pero con suerte esperaremos que este no sea el final
+Nunca te dije toda la verdad,
+              
+flaca, y verás
+              Am         F    
+Que con mis manos y tu piel la
+       C           
+Luna nos envidiará
+             Am        F       
+Quizá con suerte nos veremos en
+     C              
+el próximo big bang
+           Am          F       
+Pero con suerte esperaremos que
+       C             
+este no sea el final
