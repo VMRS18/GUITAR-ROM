@@ -1,37 +1,63 @@
 INTRO:
-E -------------------------------------------
-B ---------6--5---------------6--5-----------
-G ------5--------9/7---4--5----------9/7---4-
-D --5h7--------------------------------------
-A -------------------------------------------
-E -------------------------------------------
+E ----------------------------------
+B ---------6--5---------------6--5--
+G ------5--------9/7---4--5---------
+D --5h7-----------------------------
+A ----------------------------------
+E ----------------------------------
 
 
-E -------------------------------------------
-B -----6--5----------------------------------
-G -5-----------9/7---5--5/7--5---4h5p4-------
-D -------------------------------------------
-A -------------------------------------------
-E -------------------------------------------
+E ----------------------------------
+B ----------------------------------
+G --9/7---4-------------------------
+D ----------------------------------
+A ----------------------------------
+E ----------------------------------
+
+
+E ----------------------------------
+B -----6--5-------------------------
+G -5-----------9/7---5--5/7--5------
+D ----------------------------------
+A ----------------------------------
+E ----------------------------------
+
+
+E ----------------------------------
+B ----------------------------------
+G --4h5p4---------------------------
+D ----------------------------------
+A ----------------------------------
+E ----------------------------------
 
 
 ESTROFA
 C                                            
-Borra mi nombre de todas las frases que digas
-C                                          G
-Guarda silencio si vas a llamarme otra vez  
-Fmaj7                G6              E/G#   
-No me pronuncies en vano si tu corazón sigue
-            Am
-medio averiado 
+Borra mi nombre de todas las
+                
+frases que digas
+C                                
+Guarda silencio si vas a llamarme
+          G
+otra vez  
+Fmaj7                G6       
+No me pronuncies en vano si tu
+        E/G#            Am
+corazón sigue medio averiado 
      F         G       C
 Que yo no merezco volver
 C                                             
-Quema mi fotos no es justo que siga en tu vida
-C                                             G 
-Pierde a mi sombra si vuelve a seguirte otra vez
-Fmaj7               G6                    E/G#
-Ciérrame todas las puertas que cuando me fui 
+Quema mi fotos no es justo que
+               
+siga en tu vida
+C                              
+Pierde a mi sombra si vuelve a
+               G 
+seguirte otra vez
+Fmaj7               G6         
+Ciérrame todas las puertas que
+           E/G#
+cuando me fui 
               Am      
 se quedaron abiertas
     F         G       C 
@@ -48,8 +74,10 @@ Nunca te quise bien
 No intentes perdonarme
                G    
 Que yo no me perdoné
-Fmaj7       G6       E/G#      Am    
-Dale un respiro a mi pobre conciencia
+Fmaj7       G6       E/G#  
+Dale un respiro a mi pobre
+    Am    
+conciencia
     F         G       C 
 Que yo no merezco volver
 
@@ -57,11 +85,17 @@ Que yo no merezco volver
 
 ESTROFA
 C                                          
-Tu te has ganado el derecho para detestarme
-C                                     G  
-Y que sea mas fácil hacerlo será mi deber
-Fmaj7                G6              E/G#  
-Nadie jamas ha inventado ese dios que redima
+Tu te has ganado el derecho para
+          
+detestarme
+C                                
+Y que sea mas fácil hacerlo será
+     G  
+mi deber
+Fmaj7                G6           
+Nadie jamas ha inventado ese dios
+   E/G#  
+que redima
                Am
 todos mis pecados
   F         G       C 
@@ -78,8 +112,10 @@ Nunca te quise bien
 No intentes perdonarme
                G    
 Que yo no me perdoné
-Fmaj7       G6       E/G#      Am    
-Dale un respiro a mi pobre conciencia
+Fmaj7       G6       E/G#   
+Dale un respiro a mi pobre
+     Am   
+conciencia
     F         G       C 
 Que yo no merezco volver
 
@@ -89,9 +125,10 @@ INSTRUMENTAL
 C - Am - F - G
 
 
-
 PARTE FINAL
-Fmaj7       G6       E/G#      Am    
-Dale un respiro a mi pobre conciencia
+Fmaj7       G6       E/G#  
+Dale un respiro a mi pobre
+     Am    
+conciencia
     F         G       C 
 Que yo no merezco volver
