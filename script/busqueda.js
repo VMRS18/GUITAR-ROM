@@ -104,7 +104,7 @@ function mostrarCancion(cancion){
     });
     let video=document.querySelector(".video_youtube");
     video.innerHTML=`
-        <a id="a_video" href="${cancion.video_youtube}" target="_blank">Escuchar en You Tube</a>
+        <a id="a_video" href="${cancion.video_youtube}" target="_blank">Click aquí para escuchar en You Tube</a>
         <img id="video_y" class="video_y" src="${cancion.foto_cancion}">
     `;
     let video_tuto=document.querySelector(".video_tuto");

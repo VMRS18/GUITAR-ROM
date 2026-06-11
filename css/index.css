@@ -721,12 +721,16 @@ body{
 @media (max-width: 480px) {
 
     .header h2 {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     .contenido_container h2 {
-        font-size: 16px;
+        font-size: 22px;
     }
+    .contenido_container pre{
+        font-size: 15px;
+    }
+
 
     .acordes-cancion {
         font-size: 11px;
