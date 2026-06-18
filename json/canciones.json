@@ -15,8 +15,9 @@
         "acordes":"G - D - Em - C - B7",
         "letra":"../letras_canciones/ya_no_estas_tu_morat.txt",
         "video_youtube":"https://www.youtube.com/watch?v=ATe8yC6-R0Q&list=RDATe8yC6-R0Q&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/ya_no_estas_tu_morat.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=rW2nUAUEK1E",
+        "foto_cancion":"../img/foto_canciones/ya_no_estas_tu_morat.jpg",
+        "foto_tuto":"../img/foto_tuto/YA_NO_ESTAS_TU_MORAT.jpg"
     },
     {
         "titulo":"Nostalgia",
@@ -24,8 +25,9 @@
         "acordes":"F#m - Bm - D - A - F#7",
         "letra":"../letras_canciones/nostalgia.txt",
         "video_youtube":"https://www.youtube.com/watch?v=d8gmIiEHNT0&list=RDd8gmIiEHNT0&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/nostalgia.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=pj69jOxcQx0",
+        "foto_cancion":"../img/foto_canciones/nostalgia.jpg",
+        "foto_tuto":"../img/foto_tuto/NOSTALGIA-ANTOLOGIA.jpg"
     },
     {
         "titulo":"Te vi venir",
