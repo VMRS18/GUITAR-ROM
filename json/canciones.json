@@ -35,8 +35,9 @@
         "acordes":"Asus2 - G#m7 - F#m7 - Gm7 - E - Bsus2 - G#7",
         "letra":"../letras_canciones/te_vi_venir.txt",
         "video_youtube":"https://www.youtube.com/watch?v=rNJn8dWjsCA&list=RDrNJn8dWjsCA&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/te_vi_venir.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=qAkuzgcMRl0",
+        "foto_cancion":"../img/foto_canciones/te_vi_venir.jpg",
+        "foto_tuto":"../img/foto_tuto/TE_VI_VENIR_SIN_BANDERA.jpg"
     },
     {
         "titulo":"La Flaca",
@@ -44,8 +45,9 @@
         "acordes":"Am(cejilla) - E7(5tacuerda) - E#7(6tacuerda) - D#7(4tacuerda) - D7(3racuerda) - C(cejilla) - F - G(cejilla) - D(cejilla)",
         "letra":"../letras_canciones/la_flaca.txt",
         "video_youtube":"https://www.youtube.com/watch?v=r2g0pM3PMNQ&list=RDr2g0pM3PMNQ&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/la_flaca.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=SLc8IJN-p8s",
+        "foto_cancion":"../img/foto_canciones/la_flaca.jpg",
+        "foto_tuto":"../img/foto_tuto/LA_FLACA_JARABE_DE_PALO.jpg"
     },
     {
         "titulo":"Yo no naci para amar",
@@ -53,8 +55,9 @@
         "acordes":"Em - Am - D7 - G - B7 - C",
         "letra":"../letras_canciones/yo_no_naci_para_amar.txt",
         "video_youtube":"https://www.youtube.com/watch?v=ApXZ4IVkQY0&list=RDApXZ4IVkQY0&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/yo_no_naci_para_amar.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=W6J-zvvgQ3s",
+        "foto_cancion":"../img/foto_canciones/yo_no_naci_para_amar.jpg",
+        "foto_tuto":"../img/foto_tuto/YO_NO_NACI_PARA_AMAR_JUAN_GABRIEL.jpg"
     },
     {
         "titulo":"Flaca",
@@ -62,8 +65,9 @@
         "acordes":"G - B7 - Em - C - D",
         "letra":"../letras_canciones/flaca.txt",
         "video_youtube":"https://www.youtube.com/watch?v=UCF9oHXhDMU&list=RDUCF9oHXhDMU&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/flaca.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=BQ6Zb45dFMI",
+        "foto_cancion":"../img/foto_canciones/flaca.jpg",
+        "foto_tuto":"../img/foto_tuto/FLACA_ANDRES_CALAMARO.jpg"
     },
     {
         "titulo":"Dimelo",
@@ -71,8 +75,9 @@
         "acordes":"Am - G - F - C",
         "letra":"../letras_canciones/dimelo.txt",
         "video_youtube":"https://www.youtube.com/watch?v=zUAcKxQV1uE&list=RDw3WQwdKVqqc&index=2",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/dimelo.jpg"
+        "video_tutorial":"https://youtu.be/MzmHrqngByc",
+        "foto_cancion":"../img/foto_canciones/dimelo.jpg",
+        "foto_tuto":"../img/foto_tuto/DIMELO_ADRIAN_CAMPOS.jpg"
     },
     {
         "titulo":"La mejor de todas",
@@ -80,8 +85,9 @@
         "acordes":"C9 - Em7 - F - Dm - G",
         "letra":"../letras_canciones/la_mejor_de_todas_el_recodo.txt",
         "video_youtube":"https://www.youtube.com/watch?v=mXDX6sp1vsw&list=RDmXDX6sp1vsw&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/la_mejor_de_todas_el_recodo.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=J5EPPW249jE",
+        "foto_cancion":"../img/foto_canciones/la_mejor_de_todas_el_recodo.jpg",
+        "foto_tuto":"../img/foto_tuto/LA_MEJOR_DE_TODAS_EL_RECODO.jpg"
     },
     {
         "titulo":"Mi suerte",
@@ -89,17 +95,19 @@
         "acordes":"C#m7 - F#7 - A - E - Emaj7 - C#m - F#7(simple3er)",
         "letra":"../letras_canciones/mi_suerte_morat.txt",
         "video_youtube":"https://www.youtube.com/watch?v=sfv0xWONROg&list=RDsfv0xWONROg&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/mi_suerte_morat.jpg"
+        "video_tutorial":"https://www.youtube.com/watch?v=-LdAA4YS-0U",
+        "foto_cancion":"../img/foto_canciones/mi_suerte_morat.jpg",
+        "foto_tuto":"../img/foto_tuto/MI_SUERTE_MORAT.jpg"
     },
     {
         "titulo":"Te hubieras ido antes",
         "autor":"Reik",
-        "acordes":"C - G - F - Dm - E7",
+        "acordes":"C - G - F - Dm - E7 - Am",
         "letra":"../letras_canciones/te_hubieras_ido_antes_reik.txt",
         "video_youtube":"https://www.youtube.com/watch?v=stNIkeB_fX8&list=RDstNIkeB_fX8&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/te_hubieras_ido_antes_reik.jpg"
+        "video_tutorial":"https://youtu.be/iZ5E1aLdsRs",
+        "foto_cancion":"../img/foto_canciones/te_hubieras_ido_antes_reik.jpg",
+        "foto_tuto":"../img/foto_tuto/TE_HUBIERAS_IDO_ANTES_REIK.jpg"
     },
     {
         "titulo":"Vamonos a Marte",
@@ -107,8 +115,9 @@
         "acordes":"F - G(cejilla) - C - E7",
         "letra":"../letras_canciones/vamonos_a_marte_kevin.txt",
         "video_youtube":"https://www.youtube.com/watch?v=er2upfZf_cg",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/vamonos_a_marte_kevin.jpg"
+        "video_tutorial":"https://youtu.be/YOtw7kD8X4A",
+        "foto_cancion":"../img/foto_canciones/vamonos_a_marte_kevin.jpg",
+        "foto_tuto":"../img/foto_tuto/VAMONOS_A_MARTE_KEVIN_KAARL.jpg.jpg"
     },
     {
         "titulo":"Colapso",
@@ -116,8 +125,9 @@
         "acordes":"Am - C - G",
         "letra":"../letras_canciones/colapso_kevin.txt",
         "video_youtube":"https://www.youtube.com/watch?v=YUm-LpX1vvY&list=RDYUm-LpX1vvY&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/colapso_kevin.jpg"
+        "video_tutorial":"https://youtu.be/oLBLBNZWaJo",
+        "foto_cancion":"../img/foto_canciones/colapso_kevin.jpg",
+        "foto_tuto":"../img/foto_tuto/COLAPSO_KEVIN_KAARL.jpg"
     },
     {
         "titulo":"Un millon de primaveras",
@@ -125,8 +135,9 @@
         "acordes":"D - Bm - G - A - E",
         "letra":"../letras_canciones/un_millon_de_primaveras_vicente.txt",
         "video_youtube":"https://www.youtube.com/watch?v=M3CbRJ6jgQc&list=RDM3CbRJ6jgQc&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/un_millon_de_primaveras_vicente.jpg"
+        "video_tutorial":"https://youtu.be/xl0ZC9mseZQ",
+        "foto_cancion":"../img/foto_canciones/un_millon_de_primaveras_vicente.jpg",
+        "foto_tuto":"../img/foto_tuto/UN_MILLON_DE_PRIMAVERAS_VICENTE_FERNANDEZ.png"
     },
     {
         "titulo":"Estos celos",
@@ -134,8 +145,9 @@
         "acordes":"E - B7 - A - C#m",
         "letra":"../letras_canciones/estos_celos_vicente.txt",
         "video_youtube":"https://www.youtube.com/watch?v=x07SLQtlypo&list=RDx07SLQtlypo&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/estos_celos_vicente.jpg"
+        "video_tutorial":"https://youtu.be/i1RyqfRqB5Y",
+        "foto_cancion":"../img/foto_canciones/estos_celos_vicente.jpg",
+        "foto_tuto":"../img/foto_tuto/ESTOS_CELOS_VICENTE_FERNANDEZ.jpg"
     },
     {
         "titulo":"A veces",
@@ -143,8 +155,9 @@
         "acordes":"Dsus2 - A#dim7 - Bm7(1ertraste) - Gsus2(2dotraste) - Em7 - A - D/F# - Gm6 - Em9 - G/A",
         "letra":"../letras_canciones/a_veces_timo.txt",
         "video_youtube":"https://www.youtube.com/watch?v=Q17_fueCcWY&list=RDQ17_fueCcWY&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/a_veces_timo.jpg"
+        "video_tutorial":"https://youtu.be/onoKfsHGwU0",
+        "foto_cancion":"../img/foto_canciones/a_veces_timo.jpg",
+        "foto_tuto":"../img/foto_tuto/A_VECES_TIMO.jpg"
     },
     {
         "titulo":"Aprender a vivir",
@@ -152,8 +165,9 @@
         "acordes":"G# - C7 - C#M7(1ertraste) - C#m - Cm7 - Fm - F - F7 - A#m7(1ertraste) - D#(3ertraste)",
         "letra":"../letras_canciones/aprender_a_vivir_timo.txt",
         "video_youtube":"https://www.youtube.com/watch?v=kwdk0tpooFc&list=RDkwdk0tpooFc&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/aprender_a_vivir_timo.jpg"
+        "video_tutorial":"https://youtu.be/wuGmaahvOtQ",
+        "foto_cancion":"../img/foto_canciones/aprender_a_vivir_timo.jpg",
+        "foto_tuto":"../img/foto_tuto/APRENDER_A_VIVIR_TIMO.jpg"
     },
     {
         "titulo":"Tu si eres real",
@@ -161,8 +175,9 @@
         "acordes":"Em - Am - G",
         "letra":"../letras_canciones/tu_si_eres_real_kevin.txt",
         "video_youtube":"https://www.youtube.com/watch?v=2rN_lPC_K9c&list=RD2rN_lPC_K9c&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/tu_si_eres_real_kevin.jpg"
+        "video_tutorial":"https://youtu.be/JB-TroEcz4A",
+        "foto_cancion":"../img/foto_canciones/tu_si_eres_real_kevin.jpg",
+        "foto_tuto":"../img/foto_tuto/TU_SI_ERES_REAL_KEVIN_KAARL.jpg"
     },
     {
         "titulo":"Hotel california",
@@ -170,8 +185,9 @@
         "acordes":"Amaj7 - Emaj7(1ertraste)",
         "letra":"../letras_canciones/hotel_california_joji.txt",
         "video_youtube":"https://www.youtube.com/watch?v=uFaShu5UZcs&list=RDuFaShu5UZcs&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/hotel_california_joji.jpg"
+        "video_tutorial":"https://youtu.be/JHKTQPxE8iU",
+        "foto_cancion":"../img/foto_canciones/hotel_california_joji.jpg",
+        "foto_tuto":"../img/foto_tuto/HOTEL_CALIFORNIA_JOJI.jpg"
     },
     {
         "titulo":"Directo al corazon",
@@ -179,8 +195,9 @@
         "acordes":"Am - Dm - G - C - F - E",
         "letra":"../letras_canciones/directo_al_corazon_orquesta_la_verdad_del_norte.txt",
         "video_youtube":"https://www.youtube.com/watch?v=J9JcIUe7iHQ&list=RDJ9JcIUe7iHQ&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/directo_al_corazon_orquesta_la_verdad_del_norte.jpg"
+        "video_tutorial":"https://youtu.be/67Op9J57CdM",
+        "foto_cancion":"../img/foto_canciones/directo_al_corazon_orquesta_la_verdad_del_norte.jpg",
+        "foto_tuto":"../img/foto_tuto/DIRECTO_AL_CORAZON_LA_VERDAD_DEL_NORTE.jpg"
     },
     {
         "titulo":"En el proximo big bang",
@@ -188,8 +205,9 @@
         "acordes":"Am - F - C - Dm",
         "letra":"../letras_canciones/en_el_proximo_big_bang_wuicho.txt",
         "video_youtube":"https://www.youtube.com/watch?v=PBDZddPhbBg&list=RDPBDZddPhbBg&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/en_el_proximo_big_bang_wuicho.jpg"
+        "video_tutorial":"https://youtu.be/-kfzGd2hLUs",
+        "foto_cancion":"../img/foto_canciones/en_el_proximo_big_bang_wuicho.jpg",
+        "foto_tuto":"../img/foto_tuto/EN_EL_PROXIMO_BIG_BANG_WUICHO_ORION.jpg"
     },
     {
         "titulo":"Tu falta de querer",
@@ -197,8 +215,9 @@
         "acordes":"A - F# - D - Dm - Bm - E - C#7",
         "letra":"../letras_canciones/tu_falta_de_querer_mon_laferte.txt",
         "video_youtube":"https://www.youtube.com/watch?v=WT-VE9OyAJk&list=RDWT-VE9OyAJk&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/tu_falta_de_querer_mon_laferte.jpg"
+        "video_tutorial":"https://youtu.be/xdvSNojB17k",
+        "foto_cancion":"../img/foto_canciones/tu_falta_de_querer_mon_laferte.jpg",
+        "foto_tuto":"../img/foto_tuto/TU_FALTA_DE_QUERER_MON_LEFERTE.jpg"
     },
     {
         "titulo":"No se va",
@@ -206,8 +225,9 @@
         "acordes":"F - Am - C - G",
         "letra":"../letras_canciones/no_se_va_morat.txt",
         "video_youtube":"https://www.youtube.com/watch?v=USDX0X-d588&list=RDUSDX0X-d588&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/no_se_va_morat.jpg"
+        "video_tutorial":"https://youtu.be/NVHCl_cRHK4",
+        "foto_cancion":"../img/foto_canciones/no_se_va_morat.jpg",
+        "foto_tuto":"../img/foto_tuto/NO_SE_VA_MORAT.jpg"
     },
     {
         "titulo":"Juguete roto",
@@ -215,7 +235,8 @@
         "acordes":"A - B - C#m",
         "letra":"../letras_canciones/juguete_roto_adrian_campos.txt",
         "video_youtube":"https://www.youtube.com/watch?v=AN_88J01PyQ&list=RDAN_88J01PyQ&start_radio=1",
-        "video_tutorial":"",
-        "foto_cancion":"../img/foto_canciones/juguete_roto_adrian_campos.jpg"
+        "video_tutorial":"https://youtu.be/TA11R85-oLs",
+        "foto_cancion":"../img/foto_canciones/juguete_roto_adrian_campos.jpg",
+        "foto_tuto":"../img/foto_tuto/JUGUETE_ROTO_ADRIAN_CAMPOS.jpg"
     }
 ]
